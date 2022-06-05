@@ -1,0 +1,1 @@
+# vue-amplify-sample2
