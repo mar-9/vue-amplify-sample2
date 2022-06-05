@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "amplifyvuealbum2022",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/masanorisone/Desktop/_node/vue-qiita/amplify-vue-album/amplify/backend/api/amplifyvuealbum2022/schema.graphql",
+    "defaultAuthType": {
+      "mode": "AMAZON_COGNITO_USER_POOLS",
+      "cognitoUserPoolId": "authamplifyvuealbum2022446bf164"
+    }
+  }
+}

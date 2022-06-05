@@ -1,0 +1,14 @@
+{
+  "resourceName": "vuealbum2022",
+  "policyUUID": "4996736d",
+  "bucketName": "vue-album-2022",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
